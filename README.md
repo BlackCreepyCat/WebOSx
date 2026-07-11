@@ -1,5 +1,7 @@
 <img width="2557" height="1229" alt="2026-07-11_163129" src="https://github.com/user-attachments/assets/ee8b4a58-35a3-4e6f-b29f-3e2643bc01b6" />
 
+<img width="2559" height="1283" alt="image" src="https://github.com/user-attachments/assets/d27c12da-42bf-427f-9d03-ba2d29b08042" />
+
 Online demo : https://www.creepycat.fr/webosx/
 
 # WebOSx
