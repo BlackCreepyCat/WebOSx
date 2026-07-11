@@ -1,5 +1,7 @@
 <img width="2557" height="1229" alt="2026-07-11_163129" src="https://github.com/user-attachments/assets/ee8b4a58-35a3-4e6f-b29f-3e2643bc01b6" />
 
+Online demo : https://www.creepycat.fr/webosx/
+
 # WebOSx
 
 A fictional web-based, desktop-style operating system, built entirely in vanilla HTML/CSS/JS (no framework, no external dependencies). Draggable/resizable windows, Start menu, taskbar, HSL hue-based theming, a PS3-style animated background, and a plugin system for adding apps.
