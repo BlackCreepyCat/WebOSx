@@ -167,8 +167,8 @@ Every script under `js/apps/` registers itself with the core via `OS.registry.re
 | `clock.js` | Clock. |
 | `mp3.js` | MP3 player. |
 | `video.js` | Video player. |
-| `p2p.js` | Peer-to-peer feature (not detailed here — file not provided). |
-| `chat.js` | Chat application (not detailed here — file not provided). |
+| `p2p.js` | Peer-to-peer feature. |
+| `chat.js` | Chat application. |
 | `minesweeper.js` | Minesweeper. |
 
 > The internal details of `p2p.js`, `chat.js`, and the other apps weren't provided in this context; only their presence in `index.html` is documented here. Send them over if you'd like them documented too.
