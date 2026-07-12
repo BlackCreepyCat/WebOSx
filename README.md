@@ -2,7 +2,8 @@
 
 <img width="2559" height="1283" alt="image" src="https://github.com/user-attachments/assets/d27c12da-42bf-427f-9d03-ba2d29b08042" />
 
-Online demo : https://www.creepycat.fr/webosx/
+Youtube video: https://youtu.be/NDZ0tzudyoE
+Online demo: https://www.creepycat.fr/webosx/
 
 # WebOSx
 
