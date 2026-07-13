@@ -2,7 +2,11 @@
 
 <img width="2559" height="1283" alt="image" src="https://github.com/user-attachments/assets/d27c12da-42bf-427f-9d03-ba2d29b08042" />
 
+Version 3.7, with new tools:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8ee48eda-97ff-489b-a8d9-627831637d2e" />
+
 Youtube video: https://youtu.be/NDZ0tzudyoE
+
 Online demo: https://www.creepycat.fr/webosx/
 
 # WebOSx
