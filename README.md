@@ -9,7 +9,7 @@ Youtube video: https://youtu.be/NDZ0tzudyoE
 
 Online demo: https://www.creepycat.fr/webosx/
 
-# WebOSx
+# WebOSx (C)2026 By Creepy Cat (www.creepycat.fr)
 
 A desktop operating system simulation that runs entirely in a single browser tab. No backend, no build step, no framework — just HTML, CSS and vanilla JavaScript, loaded as plain `<script>` tags.
 
