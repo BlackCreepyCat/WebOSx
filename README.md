@@ -5,6 +5,11 @@
 Version 3.7, with new tools:
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8ee48eda-97ff-489b-a8d9-627831637d2e" />
 
+
+Futur 5.0 version on the way on Itch.io (read licence.txt):
+<img width="2049" height="1266" alt="image" src="https://github.com/user-attachments/assets/ee225c90-a738-4149-b5fc-e01cc4b562b1" />
+
+
 Youtube video: https://youtu.be/NDZ0tzudyoE
 
 Youtube testing by "Mille e Una Avventura" : https://www.youtube.com/watch?v=PTm99TR_mgA
