@@ -25,6 +25,11 @@ A desktop operating system simulation that runs entirely in a single browser tab
 Everything you'd expect from a toy OS is here: draggable/resizable windows, a taskbar, a Start menu, a language switcher, a real virtual file system, and about twenty bundled applications (terminal, file explorer, notepad, image viewer, MP3/video players, calculator, games, and more).
 
 ---
+## 3.8.4 version fixes (soon):
+1. New calendar application.
+2. About window fixed (and need to stay like this).
+
+   
 ## 3.8.2 version fixes:
 1. Italian and Portuguese translations added! (Hello 'Mille e Una Avventura!')
    
