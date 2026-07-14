@@ -25,7 +25,7 @@ A desktop operating system simulation that runs entirely in a single browser tab
 Everything you'd expect from a toy OS is here: draggable/resizable windows, a taskbar, a Start menu, a language switcher, a real virtual file system, and about twenty bundled applications (terminal, file explorer, notepad, image viewer, MP3/video players, calculator, games, and more).
 
 # Why this software? It's completely pointless!!!:
-With the upcoming control and surveillance measures, I thought that tools like this, where anyone can be a server anywhere, without software to install, even on a raspberry (create a file serveur in a browser tab!), or mobile phone and tablet (I’ve tested it! with a mouse) could be helpful in the future for temporary flash files transfert and chatrooms... Besides, I do whatever i want! :)
+With the upcoming control and surveillance measures, I thought that tools like this, where anyone can be a server anywhere, without software to install, even on a raspberry (create a files server in a browser tab!), or mobile phone and tablet (I’ve tested it! with a mouse) could be helpful in the future for temporary flash files transfert and chatrooms... Besides, I do whatever i want! :)
 
 ---
 ## 3.8.4 version fixes (soon):
