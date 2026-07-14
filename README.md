@@ -1,4 +1,4 @@
-## The sole purpose of this distribution is to provide you with a base to work from... Nothing more...
+## The sole purpose of this distribution is to provide you with a base to work from... Nothing more... Why have an OS in a web browser tab? Why not!
 
 <img width="2559" height="1234" alt="image" src="https://github.com/user-attachments/assets/104ed557-b884-4e51-aa0b-9e79d0486e04" />
 
