@@ -29,6 +29,7 @@ Everything you'd expect from a toy OS is here: draggable/resizable windows, a ta
 3. Taskbar langages flags are now ok on mobile/desktop.
 4. On mobile the windows maximize gadget icon is fixed.
 5. Sticky notes borders fixed.
+6. Notifications/requester library added.
 
 
 ## Table of contents:
