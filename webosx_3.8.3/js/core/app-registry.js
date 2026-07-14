@@ -1,0 +1,1 @@
+        class AppRegistry { constructor() { this.apps = new Map(); } register(a) { if(!a.id || !a.name) throw new Error("Plugin invalide"); this.apps.set(a.id, a); OS.onAppRegistered(a); } get(id) { return this.apps.get(id); } }
