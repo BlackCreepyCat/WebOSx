@@ -23,8 +23,15 @@ A desktop operating system simulation that runs entirely in a single browser tab
 Everything you'd expect from a toy OS is here: draggable/resizable windows, a taskbar, a Start menu, a language switcher, a real virtual file system, and about twenty bundled applications (terminal, file explorer, notepad, image viewer, MP3/video players, calculator, games, and more).
 
 ---
+## 3.8 version fixes (comming soon):
+1. Notepad localization when you start the appp has benn fixed.
+2. Chat application messages history/display fixed.
+3. Taskbar langages flags are now ok on mobile/desktop.
+4. On mobile the windows maximize gadget icon is fixed.
+5. Sticky notes borders fixed.
 
-## Table of contents
+
+## Table of contents:
 
 1. [What WebOSx does](#1-what-webosx-does)
 2. [The persistent desktop](#2-the-persistent-desktop)
