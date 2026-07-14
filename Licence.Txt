@@ -8,6 +8,9 @@ creator—that is, me :) For the rest? You want to publish a version with a new 
 
 Enjoy! But it need to stay free, and credited :)
 
+You want to use it to create your own desktop website? Enjoy! But the About window / Logo / Os name need to stay the 
+same and the github link is present...
+
 The only thing I ask is that YOU DO NOT take my work and resell it in a slightly/deep modified form...
 
 I will distribute the OS for free up to version 4.x, as I plan to release version 5.0 as shareware (Itch.io):
