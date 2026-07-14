@@ -32,6 +32,7 @@ Everything you'd expect from a toy OS is here: draggable/resizable windows, a ta
 6. Notifications/requester library added.
 7. File application double click fixed.
 8. New configuration panel stylish.
+9. Low power mode included for mobile/tablet
 
 
 ## Table of contents:
