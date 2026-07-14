@@ -23,7 +23,7 @@ A desktop operating system simulation that runs entirely in a single browser tab
 Everything you'd expect from a toy OS is here: draggable/resizable windows, a taskbar, a Start menu, a language switcher, a real virtual file system, and about twenty bundled applications (terminal, file explorer, notepad, image viewer, MP3/video players, calculator, games, and more).
 
 ---
-## 3.8 version fixes (comming soon):
+## 3.8 version fixes (coming soon):
 1. Notepad localization when you start the appp has benn fixed.
 2. Chat application messages history/display fixed.
 3. Taskbar langages flags are now ok on mobile/desktop.
