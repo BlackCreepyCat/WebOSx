@@ -1,7 +1,7 @@
 As requested, here is the WebOSx license:
 
 It’s simple: you can modify it, fork it, or install it at home or at work—wherever you like. 
-Whether it’s for free applications or paid ones (for your clients), it makes absolutely no difference to me...
+Whether it’s for free applications, it makes absolutely no difference to me...
 
 You may distribute your versions, provided they are free... and that they always credit the original 
 creator—that is, me :)
