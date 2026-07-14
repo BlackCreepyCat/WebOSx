@@ -24,6 +24,9 @@ A desktop operating system simulation that runs entirely in a single browser tab
 
 Everything you'd expect from a toy OS is here: draggable/resizable windows, a taskbar, a Start menu, a language switcher, a real virtual file system, and about twenty bundled applications (terminal, file explorer, notepad, image viewer, MP3/video players, calculator, games, and more).
 
+# Why this software? It's completely pointless!!!:
+With the upcoming control and surveillance measures, I thought that tools like this—where anyone can be a server anywhere, without software to install, even on a mobile phone (I’ve tested it!) could be helpful in the future... Besides, I do whatever I want! :)
+
 ---
 ## 3.8.4 version fixes (soon):
 1. New calendar application.
