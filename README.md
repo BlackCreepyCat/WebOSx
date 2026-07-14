@@ -1,3 +1,5 @@
+## The sole purpose of this distribution is to provide you with a base to work from... Nothing more...
+
 <img width="2559" height="1234" alt="image" src="https://github.com/user-attachments/assets/104ed557-b884-4e51-aa0b-9e79d0486e04" />
 
 <img width="2559" height="1283" alt="image" src="https://github.com/user-attachments/assets/d27c12da-42bf-427f-9d03-ba2d29b08042" />
