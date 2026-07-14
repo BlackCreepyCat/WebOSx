@@ -11,7 +11,7 @@ The only thing I ask is that you do not take my work and resell it in a slightly
 I will distribute the OS for free up to version 4, as I plan to release version 5 as shareware (Itch.io):
 it includes a huge number of new features, such as backup and restore for your VFS, etc.
 
-On Itch.io: 
+On Itch.io (soon): 
 https://blackcreepycat.itch.io/
 
                                                       Creepy Cat
