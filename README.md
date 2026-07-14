@@ -7,6 +7,8 @@ Version 3.7, with new tools:
 
 Youtube video: https://youtu.be/NDZ0tzudyoE
 
+Youtube testing: https://www.youtube.com/watch?v=PTm99TR_mgA
+
 Online demo: https://www.creepycat.fr/webosx/
 
 # WebOSx (C)2026 By Creepy Cat (www.creepycat.fr)
