@@ -428,3 +428,11 @@ Every `<script>` tag in `index.html` carries a `?v=X.Y` query string, and the Ab
 ```
 
 A tiny helper script that reads the version from one place and rewrites both would be a reasonable contribution if this project grows a build step — right now it's manual by design, to keep "no build step" true.
+
+
+             _,'|             _.-''``-...___..--';)
+           /_ \'.      __..-' ,      ,--...--''''
+          <\    .`--'''       `     /'
+           `-';'               ;   ; ;
+     __...--''     ___...--_..'  .;.'
+    (,__....----'''       (,..--''   
