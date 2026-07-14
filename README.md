@@ -31,6 +31,7 @@ Everything you'd expect from a toy OS is here: draggable/resizable windows, a ta
 5. Sticky notes borders fixed.
 6. Notifications/requester library added.
 7. File application double click fixed.
+8. New configuration panel stylish.
 
 
 ## Table of contents:
