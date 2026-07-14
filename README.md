@@ -9,7 +9,7 @@ Version 3.7, with new tools:
 Future 5.0 version (WIP) on the way on Itch.io (read licence.txt):
 <img width="2049" height="1266" alt="image" src="https://github.com/user-attachments/assets/ee225c90-a738-4149-b5fc-e01cc4b562b1" />
 
-
+Youtube tutorial for P2P exchanges: https://youtu.be/4vpawIp4DDY 
 Youtube video: https://youtu.be/NDZ0tzudyoE
 
 Youtube testing by "Mille e Una Avventura" : https://www.youtube.com/watch?v=PTm99TR_mgA
