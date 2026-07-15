@@ -16,7 +16,7 @@ The only thing I ask is that you do NOT take my work and resell it in a slightly
 I'll distribute the OS for free up through version 4.x, as I plan to release version 5.0 as shareware on Itch.io. 
 
 It will include a large number of new features, such as backup and restore for your VFS, and more.
-Coming soon on Itch.io: https://blackcreepycat.itch.io/
+Itch.io page for the shareware version: https://blackcreepycat.itch.io/webosx
 
                                                       Creepy Cat
 
