@@ -1,23 +1,22 @@
-As requested, here is the WebOSx license:
+WebOSX License
 
-It’s simple: you can modify it, fork it, or install it at home or at work—wherever you like. 
-Whether it’s for free applications, it makes absolutely no difference to me...
+As requested, here is the WebOSX license:
 
-You may distribute your versions (Github), provided they are free... and that they always credit the original 
-creator—that is, me :) For the rest? You want to publish a version with a new StarTrek look and new tools? Enjoy!
+It's simple: you can modify it, fork it, or install it at home or at work, wherever you like. 
+Whether it's used for free applications makes absolutely no difference to me.
 
-But it need to stay free, and credited :)
+You may distribute your versions (GitHub), provided they remain free... and that they always 
+credit the original creator, that is, me :) Beyond that? 
 
-You want to use it to create your own desktop website? Enjoy! But the About window / Logo , boot screen / Os name 
-need to stay the same, and the github link is present...
+Want to publish a version with a new Star Trek look and new tools? Go for it! 
+But it needs to stay free, and credited :) Want to use it to build your own desktop-style website? 
+Go for it! But the About window/logo, boot screen, and OS name need to stay the same, and the GitHub link must remain present.
 
-The only thing I ask is that YOU DO NOT take my work and resell it in a slightly/deep modified form...
+The only thing I ask is that you do NOT take my work and resell it in a slightly or heavily modified form.
+I'll distribute the OS for free up through version 4.x, as I plan to release version 5.0 as shareware on Itch.io. 
 
-I will distribute the OS for free up to version 4.x, as I plan to release version 5.0 as shareware (Itch.io):
-it includes a huge number of new features, such as backup and restore for your VFS, etc.
-
-On Itch.io (soon): 
-https://blackcreepycat.itch.io/
+It will include a large number of new features, such as backup and restore for your VFS, and more.
+Coming soon on Itch.io: https://blackcreepycat.itch.io/
 
                                                       Creepy Cat
 
