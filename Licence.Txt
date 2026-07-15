@@ -15,8 +15,10 @@ Go for it! But the About window/logo, boot screen, and OS name need to stay the 
 The only thing I ask is that you do NOT take my work and resell it in a slightly or heavily modified form.
 I'll distribute the OS for free up through version 4.x, as I plan to release version 5.0 as shareware on Itch.io. 
 
+https://blackcreepycat.itch.io/webosx
+
 It will include a large number of new features, such as backup and restore for your VFS, and more.
-Itch.io page for the shareware version: https://blackcreepycat.itch.io/webosx
+
 
                                                       Creepy Cat
 
