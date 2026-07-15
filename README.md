@@ -31,8 +31,7 @@ With the upcoming control and surveillance measures, I thought that tools like t
 ## 3.8.4 version fixes (soon):
 1. New calendar application.
 2. About window fixed (and need to stay like this).
-
-A new system to hide the applications you don't use. To clean the desktop!
+3. A new system to hide the applications you don't use. Clean the desktop!
 <img width="1808" height="1072" alt="image" src="https://github.com/user-attachments/assets/f6410f65-3cca-4c64-b651-f1fb834b82c4" />
 
 
